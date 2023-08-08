@@ -1,0 +1,15 @@
+ETF Name,Ticker,Description
+iShares MSCI USA ESG Select ETF,SUSA,"Environmental, Social, Governance"
+Consumer Discretionary Select Sector SPDR ETF,XLY,Consumer discretionary
+Consumer Staples Select Sector SPDR ETF,XLP,Consumer staples
+Energy Select Sector SPDR Fund,XLE,Energy
+SPDR S&P Metals and Mining ETF,XME,Materials
+Vanguard Industrials ETF,VIS,Industrials
+Health Care Select Sector SPDR ETF,XLV,Health care
+The Financial Select Sector SPDR Fund,XLF,Financials
+Vanguard Information Technology ETF,VGT,Information technology
+Vanguard Communication Services ETF,VOX,Communication services
+Vanguard Utilities ETF,VPU,Utilities
+iShares US Real Estate ETF,IYR,Real estate
+S&P 500,SPY,SP 500 (baseline)
+Nasdaq,QQQ,Nasdaq (baseline)
